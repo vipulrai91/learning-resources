@@ -11,10 +11,6 @@ Beginners:
 
 
 
-### Calculus:
-- [Calculus Made Easy by Silvanus P. Thompson](https://www.gutenberg.org/ebooks/33283) - Calculus explained in very simple way - [2-3 days] read time if yoy don't intend to solve all the exercises
-
-
 ### Deep Learning:
 - [Machine Learning & Deep Learning Fundamentals - by DeepLizard](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU) - One of the best and amazing courses   
 [My Notes from this course - part 1](https://github.com/vipulrai91/tensorflow-projects/blob/master/jupyter_notebooks/Deep%20Learning%20Notes.ipynb)[   part2](https://github.com/vipulrai91/tensorflow-projects/blob/master/jupyter_notebooks/Deep%20Learning%20Notes-2.ipynb)
@@ -28,5 +24,6 @@ Beginners:
 
 
 ### Books:
+- [Calculus Made Easy by Silvanus P. Thompson](https://www.gutenberg.org/ebooks/33283) - Calculus explained in very simple way - [2-3 days] read time if yoy don't intend to solve all the exercises
 - Deep Learning [Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/) - the bible of DL
 - Keras  [Deep Learning with Python, Second Edition](https://www.manning.com/books/deep-learning-with-python-second-edition) - Very good book from the creator of Keras - Currently reading it
