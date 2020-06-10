@@ -10,7 +10,7 @@ Beginners:
 
 
 ### Calculus:
-- [Calculus Made Easy by Silvanus P. Thompson](https://www.gutenberg.org/ebooks/33283 - Calculus explained in very simple way - [2-3 days] read time if yoy don't intend to solve all the exercises
+- [Calculus Made Easy by Silvanus P. Thompson](https://www.gutenberg.org/ebooks/33283) - Calculus explained in very simple way - [2-3 days] read time if yoy don't intend to solve all the exercises
 
 
 ### Deep Learning:
