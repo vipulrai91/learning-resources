@@ -3,10 +3,12 @@
 ## All the resources I have been using to learn Machine Learning and Deep Learning in order.
 
 
+
 ### Machine Learning:
 Beginners:
 - [Intro to Machine Learning](https://classroom.udacity.com/courses/ud120) - a very concise and enough to get started course
 - [https://mlcourse.ai/](https://mlcourse.ai/) - perfect balance of theory and practice. 
+
 
 
 ### Calculus:
@@ -15,6 +17,12 @@ Beginners:
 
 ### Deep Learning:
 - [Machine Learning & Deep Learning Fundamentals - by DeepLizard](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU) - One of the best and amazing courses
+
+
+
+### Computer Vision:
+- [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+- [Deep Learning for Computer Vision ](https://web.eecs.umich.edu/~justincj/teaching/eecs498/)
 
 
 
