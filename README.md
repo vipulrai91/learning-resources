@@ -13,7 +13,7 @@ Beginners:
 
 ### Deep Learning:
 - [Machine Learning & Deep Learning Fundamentals - by DeepLizard](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU) - One of the best and amazing courses   
-[My Notes from this course - part 1](https://github.com/vipulrai91/tensorflow-projects/blob/master/jupyter_notebooks/Deep%20Learning%20Notes.ipynb)[   part2](https://github.com/vipulrai91/tensorflow-projects/blob/master/jupyter_notebooks/Deep%20Learning%20Notes-2.ipynb)
+[My Notes from this course - part 1](https://github.com/vipulrai91/tensorflow-projects/blob/master/deep_learning_notes/Deep%20Learning%20Notes.ipynb)[   part2](https://github.com/vipulrai91/tensorflow-projects/blob/master/deep_learning_notes/Deep%20Learning%20Notes-2.ipynb)
 - [Keras - Python Deep Learning Neural Network API](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
 
 
