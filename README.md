@@ -25,6 +25,6 @@ Beginners:
 
 
 ### Books:
-- [Calculus Made Easy by Silvanus P. Thompson](https://www.gutenberg.org/ebooks/33283) - Calculus explained in very simple way - [2-3 days] read time if yoy don't intend to solve all the exercises
+- [Calculus Made Easy by Silvanus P. Thompson](https://www.gutenberg.org/ebooks/33283) - Calculus explained in very simple way - [2-3 days] read time if you don't intend to solve all the exercises
 - Deep Learning [Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/) - the bible of DL
 - Keras  [Deep Learning with Python, Second Edition](https://www.manning.com/books/deep-learning-with-python-second-edition) - Very good book from the creator of Keras - Currently reading it
