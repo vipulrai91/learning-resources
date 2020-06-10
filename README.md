@@ -28,4 +28,5 @@ Beginners:
 
 
 ### Books:
+- Deep Learning [Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/) - the bible of DL
 - Keras  [Deep Learning with Python, Second Edition](https://www.manning.com/books/deep-learning-with-python-second-edition) - Very good book from the creator of Keras - Currently reading it
